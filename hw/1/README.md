@@ -23,3 +23,4 @@ d. git commit -m"latest build" is used to commit the staged files to the local r
 \
 e.git push --all is used to push all your commits from the local repository to the remote repository, to place them permanently there and be able to share them with others.
 ## 5.
+<img width="344" alt="image" src="https://github.com/NicholasAsirvadam/IDS2024S/assets/157654914/ef27e806-f870-402b-94df-50f81d896277">
