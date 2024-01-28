@@ -11,7 +11,8 @@ __Course Webpage:__ cdslab.org\
 __Photo:__ ![12ba3481-bca7-4e26-a272-d45a0125f32b](https://github.com/NicholasAsirvadam/IDS2024S/assets/157654914/e43c439f-e2f1-4213-b6f2-7602cc6bbd50)
 ## 2.
 Local, Centralized, and Distributed
-## 3.Distrubuted is most popular becauase every clone of the central repository with each client is a full backup of the project’s data and history. Consequently, if the central server/repository fails for any reason, the local repository of the team member that has the most recent clone of the project database can be used to restore the central repository.
+## 3.
+Distrubuted is most popular becauase every clone of the central repository with each client is a full backup of the project’s data and history. Consequently, if the central server/repository fails for any reason, the local repository of the team member that has the most recent clone of the project database can be used to restore the central repository.
 ## 4.
 a. git pull is used to pull the latest project revision from the remote to the local repository.\
 \
