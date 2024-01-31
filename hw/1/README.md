@@ -1,17 +1,5 @@
 ## 1.
-__Name:__ Nicholas Asirvadam\
-__School ID:__ 1001791829\
-__Email:__ nicholas.asirvadam@mavs.uta.edu\
-__Department:__ Department of Mathematics\
-__University:__ The University of Texas at Arlington\
-__Level:__ Senior\
-__Position Title:__ Teaching Assistant\
-__Course Webpage:__ cdslab.org\
-__Photo:__ ![12ba3481-bca7-4e26-a272-d45a0125f32b](https://github.com/NicholasAsirvadam/IDS2024S/assets/157654914/e43c439f-e2f1-4213-b6f2-7602cc6bbd50)  
-
-+ [homework](./hw)
-+ [quiz](./quiz)
-+ [exam](./exam)
+[here is the README file I created](../../README.md)
 ## 2.
 Local, Centralized, and Distributed
 ## 3.
