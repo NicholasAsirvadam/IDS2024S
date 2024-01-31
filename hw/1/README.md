@@ -10,11 +10,8 @@ __Course Webpage:__ cdslab.org\
 __Photo:__ ![12ba3481-bca7-4e26-a272-d45a0125f32b](https://github.com/NicholasAsirvadam/IDS2024S/assets/157654914/e43c439f-e2f1-4213-b6f2-7602cc6bbd50)  
 
 + [homework](.\hw)
-
-+ [quiz](.\quiz)  
-
-+ [exam](.\exam)  
-
++ [quiz](.\quiz)
++ [exam](.\exam)
 ## 2.
 Local, Centralized, and Distributed
 ## 3.
